@@ -12,3 +12,4 @@ elif edad >= 18:
     miNombre = input('Dígame su nombre')
     print(f'{miNombre} usted ya tiene {edad} años')
     print('Le voy a enviar un email para que pueda inscribirse en nuestra academia')
+    
